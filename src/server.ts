@@ -1,5 +1,5 @@
 import app from "./app";
-import { UserModel } from "./models/user.model";
+import { UserModel } from "./models/User";
 
 const PORT = Number(process.env.PORT ?? 3000);
 
